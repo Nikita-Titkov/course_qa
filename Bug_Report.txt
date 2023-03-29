@@ -1,43 +1,17 @@
-Короткое описание (Summary)
-Короткое описание проблемы, явно указывающее на причину и тип ошибочной ситуации.
+Summary: A brief, one-sentence summary of the issue, usually including a clear and descriptive title.
 
-Проект (Project) - Название тестируемого проекта
+Steps to Reproduce: Steps that led to the issue.
 
-Компонент приложения (Component) - Название части или функции тестируемого продукта
+Expected behavior
 
-Номер версии (Version) - Версия на которой была найдена ошибка
+Actual behavior
 
-Серьезность (Severity)	
-Наиболее распространена пятиуровневая система градации серьезности дефекта:
-S1 Блокирующий (Blocker)
-S2 Критический (Critical)
-S3 Значительный (Major)
-S4 Незначительный (Minor)
-S5 Тривиальный (Trivial)
+Severity: A rating of the severity of the issue, ranging from low to high. This helps prioritize the issue for developers to fix.
 
-Приоритет (Priority)	
-Приоритет дефекта:
-P1 Высокий (High)
-P2 Средний (Medium)
-P3 Низкий (Low)
+Priority: A rating of the priority of the issue, ranging from low to high. This helps prioritize the issue for developers to fix.
 
-Статус (Status) - Статус бага. Зависит от используемой процедуры и жизненного цикла бага (bug workflow and life cycle)
+Screenshots or videos: If applicable, screenshots or videos can help to illustrate the issue and make it easier for developers to understand.
 
-Автор (Author) - Создатель баг репорта
+Environment: Information about the environment in which the bug was observed, including operating system, browser version, device, and any relevant software versions.
 
-Назначен на (Assigned To) - Имя сотрудника, назначенного на решение проблемы
-
-Окружение
-ОС / Сервис Пак и т.д. / Браузера + версия / ... - Информация об окружении, на котором был найден баг: операционная система, сервис пак, для WEB тестирования - имя и версия браузера и т.д.
-...	 
-
-Описание
-
-Шаги воспроизведения (Steps to Reproduce) - Шаги, по которым можно легко воспроизвести ситуацию, приведшую к ошибке.
-
-Фактический Результат (Result) - Результат, полученный после прохождения шагов к воспроизведению
-
-Ожидаемый результат (Expected Result) - Ожидаемый правильный результат
-
-Дополнения
-Прикрепленный файл (Attachment) - Файл с логами, скриншот или любой другой документ, который может помочь прояснить причину ошибки или указать на способ решения проблемы
+Additional notes: Any additional information that may be relevant to the issue, including any related bugs or issues.
