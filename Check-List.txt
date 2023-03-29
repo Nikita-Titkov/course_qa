@@ -1,0 +1,13 @@
+Check-List structure
+
+1. Title - title or description of the checklist.
+
+2. Date - the date the checklist was created or last used.
+
+3. Task List - A list of tasks to be completed.
+
+4. Expected result - describes what the final results of a task or process should look like after all the tasks in the checklist have been completed
+
+5. Comments fields - here you can leave notes about the problems that arose during the execution of tasks, or describe what exactly was completed.
+
+
